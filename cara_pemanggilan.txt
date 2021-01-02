@@ -1,0 +1,8 @@
+http://localhost:8080/Ajax_FP/coding_jogja/backend_bimbel/admin/list_admin
+
+http://localhost:8080/Ajax_FP/coding_jogja/client_bimbel/home#
+
+
+Yang belum bisa diatasi :
+1. tabel pendaftar & pembayaran & peserta belum terisi otomatis
+2. penambahan cari pada tabel pendaftar masih belum bisa
